@@ -1,0 +1,14 @@
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\bin\Debug\net8.0\AdoptPets.exe
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\bin\Debug\net8.0\AdoptPets.deps.json
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\bin\Debug\net8.0\AdoptPets.runtimeconfig.json
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\bin\Debug\net8.0\AdoptPets.dll
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\bin\Debug\net8.0\AdoptPets.pdb
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\AdoptPets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\AdoptPets.AssemblyInfoInputs.cache
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\AdoptPets.AssemblyInfo.cs
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\AdoptPets.csproj.CoreCompileInputs.cache
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\AdoptPets.dll
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\refint\AdoptPets.dll
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\AdoptPets.pdb
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\AdoptPets.genruntimeconfig.cache
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\ref\AdoptPets.dll
