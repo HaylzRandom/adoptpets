@@ -12,3 +12,4 @@ C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\refi
 C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\AdoptPets.pdb
 C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\AdoptPets.genruntimeconfig.cache
 C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\ref\AdoptPets.dll
+C:\Users\Hayley\Documents\Coding\C#\FreeCodeCamp\AdoptPets\obj\Debug\net8.0\AdoptPets.sourcelink.json
