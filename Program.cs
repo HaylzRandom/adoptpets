@@ -421,7 +421,46 @@ do
             break;
         case "8":
             // Display all dogs with a specified characteristic
-            Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
+            string dogCharacteristic = "";
+
+            while (dogCharacteristic == "")
+            {
+                // User to enter physical characteristic to search for
+                Console.WriteLine($"\nEnter one desired dog characteristic to search for");
+                readResult = Console.ReadLine();
+
+                if (readResult != null)
+                {
+                    dogCharacteristic = readResult.ToLower().Trim();
+                }
+            }
+
+            string dogDescription = "";
+
+            bool noMatchesDog = true;
+
+            // Loop through animals array to search for matching animals
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (ourAnimals[i, 1].Contains("dog"))
+                {
+                    dogDescription = ourAnimals[i, 4] + "\n" + ourAnimals[i, 5];
+                    if (dogDescription.Contains(dogCharacteristic))
+                    {
+                        Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is a match!");
+                        Console.WriteLine(dogDescription);
+
+                        noMatchesDog = false;
+                    }
+                }
+            }
+
+            // If no matches are found
+            if (noMatchesDog)
+            {
+                Console.WriteLine($"None of our dogs we currently have are a match for: {dogCharacteristic}");
+            }
+
             Console.WriteLine("Press the Enter key to continue");
             readResult = Console.ReadLine();
             break;
